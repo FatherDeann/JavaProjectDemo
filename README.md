@@ -4,6 +4,10 @@
 ## Author
 Dean Guo
 
+## My GitHub Repo
+
+https://github.com/FatherDeann?tab=repositories
+
 ## Project Description
 This Java project is a simple demonstration program that showcases basic Java programming concepts including classes, methods, loops, and conditional statements. The program simulates a basic inventory system for a bookstore, allowing the addition of books, displaying the inventory, and searching for a book by its title.
 
@@ -32,4 +36,5 @@ A screencast demonstrating the functionality of this Java program and how to use
 
 ## Tools Used
 - JDK Version: Java version "19.0.2" 2023-01-17
+- Screencast: OBS Version: 30.0.2 Released: December 11th, 2023.
 - IDE: IntelliJ IDEA
