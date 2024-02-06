@@ -1,6 +1,8 @@
 
 # JavaProjectDemo
 
+For "Project 0: Git Ready." Course CS2400, Professor Dong.
+
 ## Author
 Dean Guo
 
