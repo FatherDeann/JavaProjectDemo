@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+/*
+Dean Guo
+ */
+
 class Book {
     private String title;
     private String author;
