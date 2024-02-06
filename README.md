@@ -34,7 +34,7 @@ To compile and run this Java program, follow these steps:
     ```
 
 ## Screencast
-A screencast demonstrating the functionality of this Java program and how to use Git and GitHub for version control can be found here: 
+A screencast demonstrating the functionality of this Java program and how to use Git and GitHub for version control can be found here: https://youtu.be/8P6nH69gkUA
 
 ## Tools Used
 - JDK Version: Java version "19.0.2" 2023-01-17
